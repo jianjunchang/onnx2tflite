@@ -2,5 +2,5 @@ onnx
 onnxruntime
 onnx-simplifier
 numpy #<= 1.24
-tensorflow #>=2.5,<2.13
+tensorflow >=2.5,<2.16.1
 opencv-python
